@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Notes</string>
+    <string name="app_name">AnyNotes</string>
     <string name="tasks">Tasks</string>
     <string name="snackbarok">OK</string>
     <string name="storage_permission_text">This App Needs access to your Storage.</string>
@@ -13,7 +13,7 @@
     <string name="ok">Ok</string>
     <string name="enter_notes_here">Enter Notes Here</string>
     <string name="bottom_bar">bottom bar</string>
-    <string name="mynotes">MyNotes</string>
+    <string name="mynotes">AnyNotes</string>
 
     <string name="noteID">noteId</string>
     <string name="url_require">Url is Required</string>

@@ -7,9 +7,10 @@ plugins {
 
 android {
     defaultConfig {
-        applicationId "com.devapps.notes"
+        applicationId "com.vanred.anynotes"
         minSdkVersion 16
         targetSdkVersion 34
+        compileSdkVersion 34
         versionCode 1
         versionName "1.0"
 
@@ -39,7 +40,7 @@ android {
         }
     }
 
-    namespace 'com.devapps.notes'
+    namespace 'com.vanred.anynotes'
 
 }
 
